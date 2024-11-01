@@ -105,3 +105,5 @@ This project is licensed under the **Apache License 2.0**. See the LICENSE file 
 ---
 
 This project is a hands-on simulation to understand the Brachistochrone problem and the application of genetic algorithms in terrain optimization for minimizing travel time.
+
+For more information see: https://jacomoolman.co.za/brachistochrone/
